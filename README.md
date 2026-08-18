@@ -1,4 +1,4 @@
-# 🎮 Tank Düellosu
+#  Tank Düellosu
 
 2 kişilik, aynı klavyeden oynanan top-down tank savaşı oyunu. Duvarların arkasına saklanıp rakibini vurmaya çalış.
 
